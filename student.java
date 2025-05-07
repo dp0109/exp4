@@ -86,7 +86,7 @@ class Student {
     }
 }
 
-public class student {
+public class Student {
     public static void main(String[] args) {
         // Create courses
         Course math = new Course("Mathematics");
